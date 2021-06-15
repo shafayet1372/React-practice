@@ -1,0 +1,9 @@
+.shadow1 { 
+    font-weight: bold;
+  color: #294;
+  box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
+  border: 2px solid wheat;
+  border-radius: 15px;
+  box-shadow: 0 7px 30px -10px rgba(150,170,180,0.5);
+  }
+  
